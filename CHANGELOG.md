@@ -1,5 +1,10 @@
 # Changelog
 
+## [v1.1.1](https://github.com/biosugar0/tagpr-monorepo-test/compare/modules/vpc/v1.1.0...modules/vpc/v1.1.1) - 2026-01-06
+- test: add changes to both ecs and vpc modules by @biosugar0 in https://github.com/biosugar0/tagpr-monorepo-test/pull/8
+- chore(ecs): add tagpr config by @biosugar0 in https://github.com/biosugar0/tagpr-monorepo-test/pull/10
+- feat(vpc): update vpc module by @biosugar0 in https://github.com/biosugar0/tagpr-monorepo-test/pull/12
+
 ## [v0.0.1](https://github.com/biosugar0/tagpr-monorepo-test/compare/modules/vpc/v1.1.0...modules/ecs/v0.0.1) - 2026-01-06
 - test: add changes to both ecs and vpc modules by @biosugar0 in https://github.com/biosugar0/tagpr-monorepo-test/pull/8
 - chore(ecs): add tagpr config by @biosugar0 in https://github.com/biosugar0/tagpr-monorepo-test/pull/10
